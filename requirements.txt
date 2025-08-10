@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+bcrypt
+python-dotenv
+pinecone
+sentence-transformers
+ratelimit
